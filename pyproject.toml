@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "hello-nasubeemax"
+version = "0.1.0"
+description = ""
+authors = ["yuichi.nasukawa <nasu0227@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+streamlit = "^1.30.0"
+audio-recorder-streamlit = "^0.0.8"
+openai = "^1.8.0"
+python-dotenv = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
