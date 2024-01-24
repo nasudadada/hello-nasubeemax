@@ -1,7 +1,7 @@
 
 # hello-nasubeemax
 
-Hello, I am Nasubee Max. I do not protect your health.
+Hello, I am Nasubeemax. I do not protect your health.
 
 ## Overview
 hello-nasubeemax is a voice dialogue application designed to help you organize your thoughts by capturing your spoken words. Utilizing advanced voice recognition and natural language processing technologies, this app serves as a supportive companion for daily reflections and thought organization. Currently under development, hello-nasubeemax aims to offer a seamless and intuitive user experience.
@@ -22,4 +22,3 @@ As of now, the usage of hello-nasubeemax is as follows:
 1. Open the app.
 2. Press the 'Speak' button and start talking.
 3. The app responds and assists in organizing your thoughts.
-
